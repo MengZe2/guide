@@ -1,2 +1,2 @@
-# .com
-MengZe2-MC
+# MC
+MengZe2
